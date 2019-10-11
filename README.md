@@ -1,2 +1,2 @@
 # Media-Lab
-A status website for an assignment.
+A static website for an assignment.
