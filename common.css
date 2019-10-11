@@ -1,0 +1,74 @@
+body{
+    font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+.navbar {
+    position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(0deg, #FFFFFF, #FFFFFF), #000000;
+mix-blend-mode: normal;
+border-bottom: 2px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.header {
+    position: absolute;
+width: 238px;
+height: 41px;
+left: 83px;
+top: 22px;
+
+}
+
+.about-nav {
+    position: absolute;
+width: 70px;
+height: 41px;
+left: 642px;
+top: 22px;
+}
+
+.blog-nav {
+    position: absolute;
+width: 62px;
+height: 41px;
+left: 767px;
+top: 22px;
+}
+
+.team-nav {
+    position: absolute;
+width: 62px;
+height: 41px;
+left: 868px;
+top: 22px
+}
+
+.projects-nav {
+    position: absolute;
+width: 117px;
+height: 41px;
+left: 963px;
+top: 22px;
+}
+
+.research-nav {
+    position: absolute;
+width: 220px;
+height: 41px;
+left: 1111px;
+top: 22px;
+}

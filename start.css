@@ -1,0 +1,201 @@
+.start-page {
+    position: relative;
+width: 1440px;
+height: 1355px;
+
+background: #FFFFFF;
+
+}
+
+.eod-box {
+    position: absolute;
+width: 640px;
+height: 420px;
+left: 83px;
+top: 133px;
+background: url(sonicwatch.png);
+border: 2px solid #000000;
+box-sizing: border-box;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.eod-text {
+    position: absolute;
+left: 3.59%;
+right: 50%;
+top: 2.38%;
+bottom: 30.24%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.update {
+    position: absolute;
+width: 564px;
+height: 193px;
+left: 767px;
+top: 133px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.update-header {
+    position: absolute;
+width: 560px;
+height: 39px;
+background: #FBF103;
+border-bottom: 2px solid #000000;
+}
+
+.update-word {
+color: #000000;
+background: #FBF103;
+}
+
+.update-content {
+    position: absolute;
+width: 547px;
+height: 116px;
+top: 30px;
+}
+
+.pic {
+    position: absolute;
+width: 564px;
+height: 204px;
+left: -2px;
+top: 200px;
+
+background: #707070;
+background-blend-mode: overlay;
+border: 2px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.pic-text {
+    position: absolute;
+width: 262px;
+height: 90px;
+left: 10px;
+top: 15px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.about {
+    position: absolute;
+width: 1440px;
+height: 408px;
+left: 1px;
+top: 613px;
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.about-header {
+    position: absolute;
+width: 228px;
+height: 29px;
+left: 85px;
+top: 25px;
+color: #FFFFFF;
+background: #000000;
+
+}
+
+.about-content {
+    position: absolute;
+width: 1260px;
+height: 237px;
+left: 85px;
+top: 79px;
+
+}
+
+.footer {
+    position: absolute;
+width: 1465px;
+height: 287px;
+left: 0px;
+bottom: 1px;
+margin-bottom: -7px;
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.email-id {
+    position: absolute;
+    width: 321px;
+height: 237px;
+
+left: 4.85%;
+right: 73.24%;
+top: 4.29%;
+bottom: 47.24%;
+}
+
+.contact-us {
+    position: absolute;
+    width: 228px;
+height: 29px;
+left: 4.51%;
+right: 79.93%;
+top: 9.82%;
+bottom: 84.25%;
+background: #000000;
+color: #FFFFFF;
+}
+
+.address {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 29.56%;
+right: 49.42%;
+top: 10.22%;
+bottom: 41.31%;
+}
+
+.links {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 53.38%;
+right: 24.71%;
+top: 7.16%;
+bottom: 44.38%;
+}
+
+.follow-us {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 78.09%;
+right: 0%;
+top: 4.29%;
+bottom: 47.24%;
+}

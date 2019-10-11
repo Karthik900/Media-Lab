@@ -1,0 +1,364 @@
+.research-page {
+    position: relative;
+width: 1440px;
+height: 1957px;
+
+background: #FFFFFF;
+}
+
+.research-header {
+    position: absolute;
+width: 262px;
+height: 41px;
+left: 68px;
+top: 137px;
+
+display: flex;
+    align-items: center;
+
+background: black;
+color: #FFFFFF;
+}
+
+.peda-box {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 63px;
+top: 224px;
+
+box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.peda-img {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(SITE_ISROwoman.jpg);
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.peda-ol {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 0px;
+top: 0px;
+
+background: #707070;
+background-blend-mode: overlay;
+border: 2px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.peda {
+    
+position: absolute;
+left: 5.19%;
+right: 4.43%;
+top: 5.84%;
+bottom: 82.24%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.peda-rect {
+    position: absolute;
+width: 649px;
+height: 407px;
+left: 723px;
+top: 224px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.peda-small {
+    position: absolute;
+width: 649px;
+height: 66px;
+left: -3px;
+
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.peda-cont {
+    position: absolute;
+width: 644px;
+height: 342px;
+top: 45px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.specd-box {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 63px;
+top: 683px;
+
+box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.specd-ol {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 0px;
+top: 0px;
+
+background: #707070;
+background-blend-mode: overlay;
+border: 2px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.specd-img {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(B1nBir_CQAEly62.jpg);
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.specd-text {
+    position: absolute;
+left: 5.19%;
+right: 4.43%;
+top: 5.84%;
+bottom: 82.24%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.specd-rect{
+    position: absolute;
+width: 649px;
+height: 407px;
+left: 723px;
+top: 683px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.specd-small {
+    position: absolute;
+width: 649px;
+height: 66px;
+left: -3px;
+
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.specd-cont{
+    position: absolute;
+width: 644px;
+height: 342px;
+top: 45px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.ca-box {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 63px;
+top: 1142px;
+
+box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.ca-ol {
+    position: absolute;
+width: 660px;
+height: 407px;
+left: 0px;
+top: 0px;
+
+background: #707070;
+background-blend-mode: overlay;
+border: 2px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ca-img{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Villagers curiously watching TV programme during SITE.jpg);
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.ca-text {
+    position: absolute;
+left: 5.19%;
+right: 4.43%;
+top: 5.84%;
+bottom: 82.24%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ca-rect {
+    position: absolute;
+width: 649px;
+height: 407px;
+left: 723px;
+top: 1142px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.ca-small {
+    position: absolute;
+width: 649px;
+height: 66px;
+left: -3px;
+
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.ca-cont {
+    position: absolute;
+width: 644px;
+height: 342px;
+top: 45px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.footer {
+    position: absolute;
+width: 1465px;
+height: 287px;
+left: 0px;
+bottom: 1px;
+margin-bottom: -7px;
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.email-id {
+    position: absolute;
+    width: 321px;
+height: 237px;
+
+left: 4.85%;
+right: 73.24%;
+top: 4.29%;
+bottom: 47.24%;
+}
+
+.contact-us {
+    position: absolute;
+    width: 228px;
+height: 29px;
+left: 4.51%;
+right: 79.93%;
+top: 9.82%;
+bottom: 84.25%;
+background: #000000;
+color: #FFFFFF;
+}
+
+.address {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 29.56%;
+right: 49.42%;
+top: 10.22%;
+bottom: 41.31%;
+}
+
+.links {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 53.38%;
+right: 24.71%;
+top: 7.16%;
+bottom: 44.38%;
+}
+
+.follow-us {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 78.09%;
+right: 0%;
+top: 4.29%;
+bottom: 47.24%;
+}

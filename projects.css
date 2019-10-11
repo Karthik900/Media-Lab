@@ -1,0 +1,211 @@
+.projects-page {
+    position: relative;
+width: 1440px;
+height: 1875px;
+
+background: #FFFFFF;
+}
+
+
+.cult-header {
+    position: absolute;
+width: 360px;
+height: 41px;
+left: 83px;
+top: 133px;
+
+background: #FFFBFB;
+}
+
+.cult-word {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 12.2%;
+bottom: 12.2%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.projects-header {
+    position: absolute;
+width: 360px;
+height: 41px;
+left: 83px;
+top: 179px;
+background: #FBF103;
+}
+
+.projects-word {
+    position: absolute;
+left: 1.26%;
+right: 49.75%;
+top: 0%;
+bottom: 0%;
+
+color: #000000;
+
+}
+
+.eod-text {
+    position: absolute;
+left: 146px;
+right: 14px;
+top: 250px;
+bottom: 1405px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+
+.pic {
+    position: absolute;
+width: 1280px;
+height: 720px;
+left: 107px;
+top: 328px;
+
+background: url(sonicwatch.png);
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.ani {
+    position: absolute;
+width: 233px;
+height: 308px;
+left: 156px;
+top: 1086px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.stuff {
+    position: absolute;
+width: 769px;
+height: 388px;
+left: 521px;
+top: 1078px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.link1 {
+    position: absolute;
+width: 590px;
+height: 65px;
+left: 521px;
+top: 1423px;
+
+font-family: Roboto Mono;
+font-style: italic;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+}
+
+.text {
+    position: absolute;
+width: 768px;
+height: 87px;
+left: 521px;
+top: 1466px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.footer {
+    position: absolute;
+width: 1465px;
+height: 287px;
+left: 0px;
+bottom: 1px;
+margin-bottom: -7px;
+background: #FBF103;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.email-id {
+    position: absolute;
+    width: 321px;
+height: 237px;
+
+left: 4.85%;
+right: 73.24%;
+top: 4.29%;
+bottom: 47.24%;
+}
+
+.contact-us {
+    position: absolute;
+    width: 228px;
+height: 29px;
+left: 4.51%;
+right: 79.93%;
+top: 9.82%;
+bottom: 84.25%;
+background: #000000;
+color: #FFFFFF;
+}
+
+.address {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 29.56%;
+right: 49.42%;
+top: 10.22%;
+bottom: 41.31%;
+}
+
+.links {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 53.38%;
+right: 24.71%;
+top: 7.16%;
+bottom: 44.38%;
+}
+
+.follow-us {
+    position: absolute;
+    width: 321px;
+height: 237px;
+left: 78.09%;
+right: 0%;
+top: 4.29%;
+bottom: 47.24%;
+}
